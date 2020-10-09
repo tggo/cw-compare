@@ -1,0 +1,11 @@
+**/.idea/*
+**/dist/*
+**/certs/*
+**/data/*
+**/tmp/*
+coverage.html
+.env
+gin-bin
+.DS_Store
+.idea/*
+tmp/*
